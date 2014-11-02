@@ -1,0 +1,110 @@
+<style>
+
+h1 {
+  text-align: center;
+}
+
+.map {
+  border: 1px dotted black;
+  margin: 50px;
+  text-align: center;
+  width: 400px;
+  height: 400px;
+  float: left;
+}
+
+.map strong {
+  vertical-align: -200px;
+}
+
+.dive_site {
+  border: 1px dotted black;
+  margin: 50px;
+  text-align: center;
+  width: 300px;
+  height: 400px;
+  overflow: hidden;
+}
+
+.dive_site strong {
+}
+
+#navigation {
+  padding: 2px;
+  float: right;
+}
+
+
+img {
+  border: 5px solid black;
+}
+
+/* body#logbook { */
+/*   background-image: url("http://connectpoliticditto.files.wordpress.com/2008/04/scuba_dog1.jpg"); */
+/*   background-repeat: no-repeat; */
+/*   background-attachment: fixed; */
+/*   background-position: 50% 50%; */
+/*   background-size: auto 100%; */
+/* } */
+/*  */
+/* body#map { */
+/*   background-image: url("http://weknowgifs.com/wp-content/uploads/2013/03/its-magic-shia-labeouf-gif.gif"); */
+/*   background-repeat: no-repeat; */
+/*   background-attachment: fixed; */
+/*   background-position: 50% 50%; */
+/*   background-size: 100% 100%; */
+/* } */
+/*  */
+/* body#dive_sites { */
+/*   background-image: url("http://ruslpride.files.wordpress.com/2012/12/funny-hilarious-photos-231.jpg"); */
+/*   background-repeat: no-repeat; */
+/*   background-attachment: fixed; */
+/*   background-position: 50% 60%; */
+/* } */
+
+
+#logbook h1 {
+  width: 200px;
+}
+
+#logbook h3 {
+  width: 200px;
+}
+
+#info {
+  padding: 100px;
+  border: 2px dotted black;
+  vertical-align: 160px;
+}
+
+#activity {
+  border: 2px dotted black;
+  margin: 50px;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  left: 400px;
+  top: 300px;
+  overflow: hidden;
+}
+
+#dive_log {
+  border: 2px dotted black;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  overflow: hidden;
+}
+
+#minimap {
+  border: 2px dotted black;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  top: -100px;
+  right: 50px;
+  float: right;
+}
+
+
+</style>
